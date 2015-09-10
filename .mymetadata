@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jeecg-jbpm-framework"
+  id="myeclipse.1357115730390"
+  context-root="/jeecg-jbpm-framework"
+  j2ee-spec="5.0"
+  archive="jeecg-jbpm-framework.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
